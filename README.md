@@ -38,6 +38,7 @@
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge" />  
   <img alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
+  <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white&style=for-the-badge" />
 </div>
 
 ### 📚 Currently Learning:
