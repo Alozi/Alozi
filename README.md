@@ -40,8 +40,3 @@
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge" />
   <img alt="React Testing Library" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?logo=testinglibrary&logoColor=white&style=for-the-badge" />
 </div>
-
-### 📚 Currently Learning:
-
-- TypeScript
-- Unit testing with React Testing Library
